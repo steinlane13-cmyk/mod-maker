@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "crimsonmod:item/crimson_heart_blade"
+  }
+}

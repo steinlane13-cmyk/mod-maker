@@ -1,0 +1,13 @@
+modLoader="javafxmod"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="crimsonmod"
+version="1.0.0"
+displayName="Crimson Heart Blade Mod"
+displayURL="https://github.com/steinlane13-cmyk/mod-maker"
+logoFile="logo.png"
+credits="Created by steinlane13-cmyk"
+authors="steinlane13-cmyk"
+description="""Adds the Crimson Heart Blade sword to Minecraft with invisibility effect."""

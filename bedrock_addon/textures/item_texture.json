@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "Crimson Heart Blade",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "crimson_heart_blade": {
+      "textures": "textures/items/crimson_heart_blade"
+    }
+  }
+}

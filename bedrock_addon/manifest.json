@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Crimson Heart Blade - Custom Sword with Invisibility",
+    "name": "Crimson Heart Blade Addon",
+    "version": [1, 0, 0],
+    "uuid": "12345678-1234-1234-1234-123456789abc"
+  },
+  "modules": [
+    {
+      "description": "Crimson Heart Blade Resource Pack",
+      "type": "resources",
+      "uuid": "87654321-4321-4321-4321-cba987654321",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "Crimson Heart Blade Behavior Pack",
+      "type": "behavior",
+      "uuid": "11111111-2222-3333-4444-555555555abc",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["steinlane13-cmyk"],
+    "license": "MIT",
+    "url": "https://github.com/steinlane13-cmyk/mod-maker"
+  },
+  "min_engine_version": [1, 20, 0]
+}

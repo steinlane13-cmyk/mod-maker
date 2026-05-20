@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "crimsonmod:crimson_heart_blade"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "C",
+      "C",
+      "S"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:crimson_block"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "crimsonmod:crimson_heart_blade",
+      "count": 1
+    }
+  }
+}
